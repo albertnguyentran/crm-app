@@ -1,1 +1,2 @@
-### React, Springboot, MySQL, AWS EC2 & S3
+#### React, Springboot, MySQL
+#### Cloud: AWS EC2 with Amazon Linux AMI, RDS and S3
